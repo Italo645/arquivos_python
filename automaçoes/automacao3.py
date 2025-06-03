@@ -86,4 +86,4 @@ clique(1306, 995)
 clique(1034, 185)
 
 # "C:\Users\DBA_ITALO\Documents\python_prof_matheus\automacao3.py"
-12
+123
