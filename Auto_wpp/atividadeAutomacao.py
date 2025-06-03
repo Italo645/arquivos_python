@@ -36,4 +36,5 @@ time.sleep(4)
 pyautogui.click(x=1192, y=658)
 time.sleep(4)
 pyautogui.click(x=1176, y=574)
+123
 
