@@ -29,3 +29,4 @@ import time
 # pyautogui.click(x=527, y=876)
 # time.sleep(1)
 # pyautogui.click(x=1414, y=701)
+123
